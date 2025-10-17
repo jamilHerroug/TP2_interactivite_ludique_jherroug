@@ -1,11 +1,11 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1760711324
-export_presets.cfg::TextFile/TextFile::-1::1760709842::0::1::::<><><>0<>0<><>::
+::res://::1760712454
+export_presets.cfg::TextFile/TextFile::-1::1760712225::0::1::::<><><>0<>0<><>::
 icon.webp::CompressedTexture2D/CompressedTexture2D::3626017087650301524::1758899826::1758899834::1::::<><><>0<>0<>c6c2d2a409d3db208320ab54c2d08e4f<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
 main_menu.gd::GDScript/GDScript::4327340983654773839::1760578941::0::1::::<>Control<><>0<>0<><>::
-Main_menu.tscn::PackedScene::5906088784563432967::1760711174::0::1::::<><><>0<>0<><>::uid://b2wgw5416kdpf::::res://main_menu.gd
+Main_menu.tscn::PackedScene/PackedScene::5906088784563432967::1760711174::0::1::::<><><>0<>0<><>::uid://b2wgw5416kdpf::::res://main_menu.gd
 README.md::TextFile/TextFile::-1::1758899826::0::1::::<><><>0<>0<><>::
-world.tscn::PackedScene::7507049789678500145::1760711174::0::1::::<><><>0<>0<><>::uid://rp6beujiteje::::res://level/Mossy - TileSet.png<>uid://cj4wcaauvslti::::res://player/player.tscn<>uid://b3pfjr7hlxd82::::res://player/traveler_stand_by.png<>uid://ch456ad3bvn7i::::res://player/Sound Effect/386655__jalastram__sfx_jump_34.wav<>uid://10lbc7801dku::::res://player/traveler_land.png<>uid://cmywm0kyekhtt::::res://player/traveler_jump.png<>uid://cvq7ce3pledxc::::res://player/traveler_run.png
+world.tscn::PackedScene/PackedScene::7507049789678500145::1760711174::0::1::::<><><>0<>0<><>::uid://rp6beujiteje::::res://level/Mossy - TileSet.png<>uid://cj4wcaauvslti::::res://player/player.tscn<>uid://b3pfjr7hlxd82::::res://player/traveler_stand_by.png<>uid://ch456ad3bvn7i::::res://player/Sound Effect/386655__jalastram__sfx_jump_34.wav<>uid://10lbc7801dku::::res://player/traveler_land.png<>uid://cmywm0kyekhtt::::res://player/traveler_jump.png<>uid://cvq7ce3pledxc::::res://player/traveler_run.png
 ::res://level/::1760711165
 circle.png::CompressedTexture2D/CompressedTexture2D::5459154731487366389::1758899826::1760711164::1::::<><><>0<>0<>78e7ccf03ad90191eaa8b18d47f11d0e<>res://.godot/imported/circle.png-65a28e998f412b3cddff971e28b7d768.ctex::
 Herbe_terre.png::CompressedTexture2D/CompressedTexture2D::101070020285130516::1760553480::1760711165::1::::<><><>0<>0<>2e6988b22f2ada8274a713de49211b73<>res://.godot/imported/Herbe_terre.png-a02ef123f2ff047aadf962b21496a531.ctex::
