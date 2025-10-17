@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bvrmqe8o6rjbk"
+path="res://.godot/imported/501102__evretro__8-bit-footsteps.wav-db9a5a98c78b6f3b71743165f9f0f7f0.sample"
+
+[deps]
+
+source_file="res://player/Sound Effect/501102__evretro__8-bit-footsteps.wav"
+dest_files=["res://.godot/imported/501102__evretro__8-bit-footsteps.wav-db9a5a98c78b6f3b71743165f9f0f7f0.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,39 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1760711324
+export_presets.cfg::TextFile/TextFile::-1::1760709842::0::1::::<><><>0<>0<><>::
+icon.webp::CompressedTexture2D/CompressedTexture2D::3626017087650301524::1758899826::1758899834::1::::<><><>0<>0<>c6c2d2a409d3db208320ab54c2d08e4f<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
+main_menu.gd::GDScript/GDScript::4327340983654773839::1760578941::0::1::::<>Control<><>0<>0<><>::
+Main_menu.tscn::PackedScene::5906088784563432967::1760711174::0::1::::<><><>0<>0<><>::uid://b2wgw5416kdpf::::res://main_menu.gd
+README.md::TextFile/TextFile::-1::1758899826::0::1::::<><><>0<>0<><>::
+world.tscn::PackedScene::7507049789678500145::1760711174::0::1::::<><><>0<>0<><>::uid://rp6beujiteje::::res://level/Mossy - TileSet.png<>uid://cj4wcaauvslti::::res://player/player.tscn<>uid://b3pfjr7hlxd82::::res://player/traveler_stand_by.png<>uid://ch456ad3bvn7i::::res://player/Sound Effect/386655__jalastram__sfx_jump_34.wav<>uid://10lbc7801dku::::res://player/traveler_land.png<>uid://cmywm0kyekhtt::::res://player/traveler_jump.png<>uid://cvq7ce3pledxc::::res://player/traveler_run.png
+::res://level/::1760711165
+circle.png::CompressedTexture2D/CompressedTexture2D::5459154731487366389::1758899826::1760711164::1::::<><><>0<>0<>78e7ccf03ad90191eaa8b18d47f11d0e<>res://.godot/imported/circle.png-65a28e998f412b3cddff971e28b7d768.ctex::
+Herbe_terre.png::CompressedTexture2D/CompressedTexture2D::101070020285130516::1760553480::1760711165::1::::<><><>0<>0<>2e6988b22f2ada8274a713de49211b73<>res://.godot/imported/Herbe_terre.png-a02ef123f2ff047aadf962b21496a531.ctex::
+Jumelle_Traveler.png::CompressedTexture2D/CompressedTexture2D::3905312800647881847::1760554760::1760554825::1::::<><><>0<>0<>8785b4cd1d10c67f8641f734e44353c5<>res://.godot/imported/Jumelle_Traveler.png-1fb3cd650396bc4e68ff9a3b333aa760.ctex::
+long_obstacle.png::CompressedTexture2D/CompressedTexture2D::8517411410711954638::1758899826::1760711164::1::::<><><>0<>0<>4cf5f6172bae383afb3c6af116d5d8d8<>res://.godot/imported/long_obstacle.png-d70ee394f796e1de9a423783aa84ec5d.ctex::
+Mossy - BackgroundDecoration.png::CompressedTexture2D/CompressedTexture2D::4031685295023104332::1760565753::1760565795::1::::<><><>0<>0<>8c78b1ecbe30693e22f1290cea65e577<>res://.godot/imported/Mossy - BackgroundDecoration.png-b5564d6c36dd6a18d41476772c0863aa.ctex::
+Mossy - Decorations&Hazards.png::CompressedTexture2D/CompressedTexture2D::7085197545265420704::1760565753::1760565796::1::::<><><>0<>0<>9a3441c9f1f989eaeda3038d36746636<>res://.godot/imported/Mossy - Decorations&Hazards.png-24be792f0f281b0861adbed94e18e30f.ctex::
+Mossy - FloatingPlatforms.png::CompressedTexture2D/CompressedTexture2D::4356312898838520869::1760565753::1760565793::1::::<><><>0<>0<>acd3537fd3523a0d571509314ee284df<>res://.godot/imported/Mossy - FloatingPlatforms.png-ce9434ffa2c27c62572dad9be35ca516.ctex::
+Mossy - Hanging Plants.png::CompressedTexture2D/CompressedTexture2D::3102798199613184347::1760565754::1760565794::1::::<><><>0<>0<>5453c8c8ebf3de0eb9bdc519388cb8c8<>res://.godot/imported/Mossy - Hanging Plants.png-7e941e93a08ed3b5482109df25dba517.ctex::
+Mossy - MossyHills.png::CompressedTexture2D/CompressedTexture2D::1278366260090055699::1760565754::1760565793::1::::<><><>0<>0<>24aff7a7dc320002185a47b6a27de09b<>res://.godot/imported/Mossy - MossyHills.png-4397a61e482e061351174962d7183d30.ctex::
+Mossy - TileSet.png::CompressedTexture2D/CompressedTexture2D::1226060262136962558::1760565754::1760565794::1::::<><><>0<>0<>57b1bb6f43c0183a34be715a35cc5f9b<>res://.godot/imported/Mossy - TileSet.png-74a82a781d989271b865e3a1d99e0006.ctex::
+obstacle.png::CompressedTexture2D/CompressedTexture2D::6104839132497579106::1758899826::1760711165::1::::<><><>0<>0<>c57dfa5bae2a8bf89880bb38ea560a29<>res://.godot/imported/obstacle.png-06287f6b2d26dd03335fd87ab78c2cc2.ctex::
+princess.gd::GDScript/GDScript::5260077627139650662::1760567442::0::1::::<>RefCounted<><>0<>0<><>::
+princess.png::CompressedTexture2D/CompressedTexture2D::6411719138828832096::1758899826::1760711165::1::::<><><>0<>0<>f06958b44076d199716367f1bcad7eef<>res://.godot/imported/princess.png-359cb1d8a4fd115119b22ac7899e2787.ctex::
+roche.png::CompressedTexture2D/CompressedTexture2D::2527322268305940706::1760553230::1760711165::1::::<><><>0<>0<>7478e0b0357795dd6e3d21f391f6b218<>res://.godot/imported/roche.png-df8ec5d522283f10492616201c224b97.ctex::
+::res://Main/::1760711194
+::res://player/::1760711076
+player.gd::GDScript/GDScript::5877516832276855278::1760644606::0::1::::<>CharacterBody2D<><>0<>0<><>::
+player.tscn::PackedScene/PackedScene::5465747261362391450::1758904456::0::1::::<><><>0<>0<><>::uid://cp0d3xdm8give::::res://player/player.gd<>uid://b3pfjr7hlxd82::::res://player/traveler_stand_by.png
+traveler_jump.png::CompressedTexture2D/CompressedTexture2D::5666011090135741381::1758292794::1758900298::1::::<><><>0<>0<>10e8eda2ecfc57ff84dfe324f5a894ce<>res://.godot/imported/traveler_jump.png-1977cd42a0ccf183988d06a21ca51490.ctex::
+traveler_jump_2.png::CompressedTexture2D/CompressedTexture2D::4732406953743330666::1758292866::1758900298::1::::<><><>0<>0<>dd7dee68099a39216cbc06ebd8cb8d61<>res://.godot/imported/traveler_jump_2.png-b89123d170135f4229a2260429287eea.ctex::
+traveler_land.png::CompressedTexture2D/CompressedTexture2D::1877189207168917108::1758293392::1758900298::1::::<><><>0<>0<>6aab8e828b59bdd56b526728cdbadebd<>res://.godot/imported/traveler_land.png-041431f5a1e4b4531d598c7113e53589.ctex::
+traveler_land_2.png::CompressedTexture2D/CompressedTexture2D::5608669323776676176::1758293426::1758900298::1::::<><><>0<>0<>48baef664350e8a07682a59d883249fe<>res://.godot/imported/traveler_land_2.png-24e0d6bd01c3432b07291240c5e9c7c6.ctex::
+traveler_run.png::CompressedTexture2D/CompressedTexture2D::6281783897250491980::1758293567::1758900298::1::::<><><>0<>0<>ed31ce0c4206835d79b3f7de71922ae9<>res://.godot/imported/traveler_run.png-3c7775c06b692027c249292d8744b8f3.ctex::
+traveler_run_2.png::CompressedTexture2D/CompressedTexture2D::65935039230317367::1758293588::1758900298::1::::<><><>0<>0<>3de82b49653adba5dca9a2fdea980015<>res://.godot/imported/traveler_run_2.png-bfdd032eeaffd51452e584ed481d7ef0.ctex::
+traveler_stand_by.png::CompressedTexture2D/CompressedTexture2D::4382994571642230865::1758292486::1758900298::1::::<><><>0<>0<>eafc10fb5930d0ccad0bafd9da895503<>res://.godot/imported/traveler_stand_by.png-0a36ecc192f4dbe8809f05d37300627b.ctex::
+traveler_stand_by_2.png::CompressedTexture2D/CompressedTexture2D::8619091030309110281::1758292579::1758900298::1::::<><><>0<>0<>2746ed95432a8b7d6a3626bf9b2fc6b2<>res://.godot/imported/traveler_stand_by_2.png-05bac2fe1fc199364d1a8b5aecb4b508.ctex::
+::res://player/assets/::1758900129
+::res://player/Sound Effect/::1760711071
+386655__jalastram__sfx_jump_34.wav::AudioStreamWAV/AudioStreamWAV::5325907103022990964::1760398622::1760398661::1::::<><><>0<>0<>43ee5c2615b441c749e2baeac9c69418<>res://.godot/imported/386655__jalastram__sfx_jump_34.wav-28ea1cd06bd278dc3ef4f7c2065159c7.sample::
+501102__evretro__8-bit-footsteps.wav::AudioStreamWAV/AudioStreamWAV::3896238260276620488::1760398576::1760398661::1::::<><><>0<>0<>3a5ec46673f799b023460c9fc8db22cd<>res://.godot/imported/501102__evretro__8-bit-footsteps.wav-db9a5a98c78b6f3b71743165f9f0f7f0.sample::
